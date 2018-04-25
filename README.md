@@ -10,7 +10,7 @@
 - [x] 使用vue单页面，体验较好
 
 ### 项目源码
-[https://github-laziji.github.io][3]
+[https://github.com/GitHub-Laziji/blog-vue][3]
 
 ### 演示地址
 [https://github-laziji.github.io][1]
