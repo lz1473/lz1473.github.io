@@ -20,7 +20,7 @@
 - [x] 使用vue单页面
 
 ### 项目源码
-[https://github.com/GitHub-Laziji/blog-vue][3]
+[https://github.com/GitHub-Laziji/vblog][3]
 
 ### 演示地址
 [https://github-laziji.github.io][1]
@@ -50,4 +50,4 @@
 
   [1]: https://github-laziji.github.io
   [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
-  [3]: https://github.com/GitHub-Laziji/blog-vue
+  [3]: https://github.com/GitHub-Laziji/vblog
