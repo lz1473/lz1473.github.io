@@ -52,7 +52,7 @@
 
 ### 获取Token
 
-在 *github > settings > Developer settings > Personal access tokens*  勾选gist权限 获取Token
+在 *github > settings > Developer settings > Personal access tokens*  勾选 gist 和 repo 权限 获取Token
 
 
 ------
