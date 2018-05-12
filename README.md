@@ -1,5 +1,25 @@
 # VBlog
 
+## 简介
+
+博客基于 GitHub Pages 与 Github API 实现无后台，可动态发布博客的系统
+博客数据储存于gist 通过Github API 进行增删改查
+喜欢的话留下你的星星╭(●｀∀´●)╯╰(●’◡’●)╮
+
+### 特点
+
+- [x] 基于 GitHub Pages 无需服务器
+- [x] 改进传统 GitHub Pages 不能动态发布的缺陷
+- [x] 包含电脑端和移动端
+- [x] 单页面应用
+
+
+### 演示地址
+[https://github-laziji.github.io][1]
+
+### 项目源码
+[https://github.com/GitHub-Laziji/vblog][3]
+
 ## 2018.5.11 更新
 - 移动端增加博客, 项目, 个人中心, 移动端和PC端共用API, 页面独立 
 - 修复文章样式奇怪的BUG
@@ -30,25 +50,11 @@
 - 增加个人信息的状态栏
 - 修复发图片博文的BUG 
 
-## 简介
 
-博客基于 GitHub Pages 与 Github API 实现无后台，可动态发布博客的系统
-博客数据储存于gist 通过Github API 进行增删改查
-喜欢的话留下你的星星╭(●｀∀´●)╯╰(●’◡’●)╮
 
-### 特点
 
-- [x] 基于 GitHub Pages 无需服务器
-- [x] 改进传统 GitHub Pages 不能动态发布的缺陷
-- [x] 使用vue单页面
 
-### 项目源码
-[https://github.com/GitHub-Laziji/vblog][3]
-
-### 演示地址
-[https://github-laziji.github.io][1]
-
-### 快速使用
+## 快速使用
 搭建博客只需2步
 1. 点击github头像旁边的 "+" 号 选择 "Import repository" 克隆地址填"https://github.com/GitHub-Laziji/GitHub-Laziji.github.io" 项目名填 "${你的用户名}.github.io" 
 2. 克隆完成后 修改文件 /static/configuration.json 中的 "github-username" 为自己的github用户名
